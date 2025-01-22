@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![](https://github.com/justin-aj/justin-aj/blob/main/Cf%20Welcom%20GIF%20by%20Calvary%20Fellowship%20Church.gif)
+![](https://github.com/justin-aj/justin-aj/blob/main/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d776869737065722e676966.gif)
 <!--
 **justin-aj/justin-aj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
