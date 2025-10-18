@@ -1,16 +1,17 @@
-# Hi, I'm Ajin Frank Justin 👋
+# Hey there, I'm Ajin 👋⚡
 
-## I architect intelligence, from raw data to production AI.
+## I turn messy data into intelligent systems that actually ship.
 
-I'm a full-stack builder in the data and AI space, focused on creating systems that deliver real-world impact. My work is a blend of disciplines designed to manage the entire project lifecycle, because a model isn't finished until it's running reliably and driving value.
+Forget buzzwords. I'm a **full-stack AI engineer** who builds end-to-end: from ETL pipelines that don't break at 3am, to models that scale in production, to APIs that teams actually want to use.
 
-🧠 **Data Science (30%)** | ⚙️ **Data Engineering (20%)** | 🚀 **ML & MLOps (20%)** | ✨ **Generative AI (20%)** | 💻 **Software Engineering (10%)**
+**30% Data Science** • **20% Data Engineering** • **20% ML & MLOps** • **20% Gen AI** • **10% Software Engineering**
 
-My goal is simple: **Turn complex data into scalable, impactful AI systems.** No science projects—only production-ready solutions.
+### My philosophy? 
+**If it doesn't run in prod, it doesn't count.** 🚀
 
 ---
 
-### 🔧 My Toolbox
+### 🛠️ Arsenal
 
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -53,19 +54,26 @@ My goal is simple: **Turn complex data into scalable, impactful AI systems.** No
 
 ---
 
-### ⚡ My Creations
+### 🔥 Projects That Actually Work
 
-Here are a few things I've built:
+**[AskNEU](https://github.com/justin-aj/AskNEU)** 🎓  
+Built an AI that knows everything about an entire university. RAG architecture, production-ready, zero hallucinations on campus policies.
 
-- **[AskNEU](https://github.com/justin-aj/AskNEU)**: An AI-powered answer engine for an entire university, built from the ground up with a RAG architecture.
-- **[AI Banking Assistant](https://github.com/justin-aj/AIBankingAssistant)**: A conversational AI for banking, powered by fine-tuned language models (T5, DistilBERT).
-- **[ELT Pipeline for TCGA](https://github.com/justin-aj/ELTBigQuery.git)**: A reproducible ELT workflow for loading critical cancer research data into BigQuery.
-- **[Cold Email / Job Application Automation](https://github.com/justin-aj/ces-automation)**: An end-to-end pipeline to automate job searching and applications.
-- **[PR Summarizer](https://github.com/justin-aj/PRSummarizer.git)**: An event-driven system to find and summarize press releases from email in real-time.
+**[AI Banking Assistant](https://github.com/justin-aj/AIBankingAssistant)** 💰  
+Conversational AI that handles real banking queries. Fine-tuned T5 & DistilBERT models that understand financial jargon.
+
+**[TCGA ELT Pipeline](https://github.com/justin-aj/ELTBigQuery.git)** 🧬  
+Reproducible cancer research data pipeline → BigQuery. Because medical data can't afford to be messy.
+
+**[Cold Email Automation](https://github.com/justin-aj/ces-automation)** 📧  
+Tired of applying to jobs manually? I automated it. End-to-end job search pipeline that actually lands interviews.
+
+**[PR Summarizer](https://github.com/justin-aj/PRSummarizer.git)** 📰  
+Event-driven system that finds press releases in your inbox and summarizes them instantly. Real-time, no manual filtering.
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 By The Numbers
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=justin-aj&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Ajin's GitHub stats" />
@@ -74,18 +82,24 @@ Here are a few things I've built:
 
 ---
 
-### 🔭 What I'm Up To
+### 🎯 Current Mission
 
-- 🎓 Pursuing my **Master's in Data Science** @ Northeastern University.
-- 💡 Seeking **Data Science & ML Engineering co-op/internship opportunities** for Summer/Fall 2026.
-- 🌱 Currently exploring advanced techniques in **model quantization and efficient deployment**.
+🎓 **MS in Data Science** @ Northeastern University  
+💼 **Actively seeking Data Science & ML Engineering co-op/internship** for Summer/Fall 2026  
+🧪 **Deep diving into:** Model quantization, efficient deployment, and making LLMs run on potatoes
 
 ---
 
-### 📫 Let's Connect
+### 📬 Let's Build Something
+
+Got an interesting problem? Need someone who can take it from notebook to production?
 
 <p align="left">
 <a href="https://linkedin.com/in/ajin-frank-j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajin-frank-j" height="30" width="40" /></a>
 <a href="https://huggingface.co/your-hf-username" target="blank"><img align="center" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" height="30" width="40" /></a>
 <a href="mailto:ajinfrankj@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" /></a>
 </p>
+
+---
+
+**💡 Pro tip:** I respond fastest to interesting technical challenges and opportunities to work on real-world AI systems.
