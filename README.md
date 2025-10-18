@@ -1,16 +1,16 @@
-# Hi, I'm Ajin Frank Justin 👋
+# Hi, I'm Ajin Frank Justin
 
 ## I build intelligent software, from concept to code.
 
-I'm a full-stack builder who thrives at the intersection of software engineering, data, and AI. My work is about creating systems that are not just functional, but also smart, scalable, and impactful. I manage the entire project lifecycle, because an idea isn't finished until it's a reliable, deployed solution.
+I am a software and data professional focused on creating systems that are not just functional, but also smart, scalable, and impactful. I manage the entire project lifecycle to transform complex problems into reliable, deployed solutions.
 
-🧠 **Software Architecture** | ⚙️ **Data Engineering** | 🚀 **AI & MLOps** | ✨ **System Design**
+**Software Architecture | Data Engineering | AI & MLOps | System Design**
 
-My goal is simple: **Turn complex problems into robust, intelligent software.**
+My goal is to turn complex problems into robust, intelligent software.
 
 ---
 
-### ⚡ My Creations
+### Featured Projects
 
 Here are a few things I've built:
 
@@ -22,15 +22,15 @@ Here are a few things I've built:
 
 ---
 
-### 🔭 What I'm Up To
+### Current Focus
 
-- 🎓 Pursuing my **Master's in Data Science** @ Northeastern University.
-- 💡 Seeking **Software, Data & ML Engineering co-op/internship opportunities** for Summer/Fall 2026.
-- 🌱 Currently exploring **efficient system design and scalable backend architecture.**
+- Pursuing a Master of Science in Data Science at Northeastern University.
+- Seeking co-op/internship opportunities in Software, Data, and Machine Learning Engineering for Summer/Fall 2026.
+- Currently focused on efficient system design and scalable backend architecture.
 
 ---
 
-### 📫 Let's Connect
+### Connect
 
 <p align="left">
 <a href="https://linkedin.com/in/ajin-frank-j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajin-frank-j" height="30" width="40" /></a>
