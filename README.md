@@ -5,7 +5,7 @@ Building **production-grade AI & ML systems** from raw data to monitored deploym
 
 ---
 
-## 💻 Software Engineering & Development
+### 💻 Software Engineering & Development
 
 * Full-stack development & **scalable applications**
 * **RESTful APIs** & **microservices** with modern frameworks
@@ -13,7 +13,7 @@ Building **production-grade AI & ML systems** from raw data to monitored deploym
 
 ---
 
-## 📊 Predictive Modeling & Machine Learning
+### 📊 Predictive Modeling & Machine Learning
 
 * Regression, Tree-based Ensembles, **XGBoost**, and more
 * **Feature engineering, model validation, interpretability**
@@ -21,7 +21,7 @@ Building **production-grade AI & ML systems** from raw data to monitored deploym
 
 ---
 
-## 🤖 Deep Learning & NLP
+### 🤖 Deep Learning & NLP
 
 * Transformers, **Large Language Models (LLMs)**
 * **Fine-tuning models**, building **RAG systems**
@@ -29,7 +29,7 @@ Building **production-grade AI & ML systems** from raw data to monitored deploym
 
 ---
 
-## ⚙️ MLOps & Data Engineering
+### ⚙️ MLOps & Data Engineering
 
 * Building **scalable ML infrastructure**
 * Designing **data pipelines**, **containerization**, and **cloud deployments**
@@ -37,7 +37,7 @@ Building **production-grade AI & ML systems** from raw data to monitored deploym
 
 ---
 
-## 📈 Data-Centric Problem Solving
+### 📈 Data-Centric Problem Solving
 
 * Python, SQL, and **distributed computing frameworks**
 * **ETL/ELT pipelines**, **data modeling**, and **dashboarding**
