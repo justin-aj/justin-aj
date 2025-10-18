@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Ajin Frank Justin
 
 🎓 **Data Science Master's Student | GPA: 4.0**
-Building **production-grade AI & ML systems** from raw data to monitored deployments. I work across the **entire data lifecycle**—from pipelines to predictive models that drive measurable impact.
+Building **production-grade AI & ML systems** from raw data to monitored deployments. I work across the **entire data lifecycle**, from pipelines to predictive models that drive measurable impact.
 
 ---
 
