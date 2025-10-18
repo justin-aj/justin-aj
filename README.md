@@ -1,12 +1,12 @@
 # Hi, I'm Ajin Frank Justin 👋
 
-## I architect intelligence, from raw data to production AI.
+## I build intelligent software, from concept to code.
 
-I'm a full-stack builder in the data and AI space, focused on creating systems that deliver real-world impact. My work is a blend of disciplines designed to manage the entire project lifecycle, because a model isn't finished until it's running reliably and driving value.
+I'm a full-stack builder who thrives at the intersection of software engineering, data, and AI. My work is about creating systems that are not just functional, but also smart, scalable, and impactful. I manage the entire project lifecycle, because an idea isn't finished until it's a reliable, deployed solution.
 
-🧠 **Data Science (30%)** | ⚙️ **Data Engineering (20%)** | 🚀 **ML & MLOps (20%)** | ✨ **Generative AI (20%)** | 💻 **Software Engineering (10%)**
+🧠 **Software Architecture** | ⚙️ **Data Engineering** | 🚀 **AI & MLOps** | ✨ **System Design**
 
-My goal is simple: **Turn complex data into scalable, impactful AI systems.**
+My goal is simple: **Turn complex problems into robust, intelligent software.**
 
 ---
 
@@ -25,8 +25,8 @@ Here are a few things I've built:
 ### 🔭 What I'm Up To
 
 - 🎓 Pursuing my **Master's in Data Science** @ Northeastern University.
-- 💡 Seeking **Data Science & ML Engineering co-op/internship opportunities** for Summer/Fall 2026.
-- 🌱 Currently exploring advanced techniques in **model quantization and efficient deployment**.
+- 💡 Seeking **Software, Data & ML Engineering co-op/internship opportunities** for Summer/Fall 2026.
+- 🌱 Currently exploring **efficient system design and scalable backend architecture.**
 
 ---
 
@@ -34,4 +34,4 @@ Here are a few things I've built:
 
 <p align="left">
 <a href="https://linkedin.com/in/ajin-frank-j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajin-frank-j" height="30" width="40" /></a>
-
+</p>
