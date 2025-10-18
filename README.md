@@ -34,6 +34,4 @@ Here are a few things I've built:
 
 <p align="left">
 <a href="https://linkedin.com/in/ajin-frank-j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajin-frank-j" height="30" width="40" /></a>
-<a href="https://huggingface.co/your-hf-username" target="blank"><img align="center" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" height="30" width="40" /></a>
-<a href="mailto:ajinfrankj@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" /></a>
-</p>
+
