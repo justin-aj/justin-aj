@@ -6,7 +6,7 @@ I'm a full-stack builder in the data and AI space, focused on creating systems t
 
 🧠 **Data Science (30%)** | ⚙️ **Data Engineering (20%)** | 🚀 **ML & MLOps (20%)** | ✨ **Generative AI (20%)** | 💻 **Software Engineering (10%)**
 
-My goal is simple: **Turn complex data into scalable, impactful AI systems.** No science projects—only production-ready solutions.
+My goal is simple: **Turn complex data into scalable, impactful AI systems.**
 
 ---
 
